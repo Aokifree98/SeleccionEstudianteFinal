@@ -129,3 +129,7 @@ class AsignaturaTestCase ( unittest.TestCase ) :
     def test_campo_editar_asignatura ( self ) :
         resultado = self.gestionAsignatura.editar_asignatura ( idAsignatura = 1 , nombreAsignatura = "" )
         self.assertEqual ( resultado , False)
+
+    def test_editar_asignatura_repetida ( self ) :
+        resultado = self.gestionAsignatura.editar_asignatura ( idAsignatura = 2 , nombreAsignatura = "Análisis y diseño de sistemas" )
+        self.assertEqual ( resultado , False)
