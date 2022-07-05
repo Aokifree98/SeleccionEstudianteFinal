@@ -1,5 +1,5 @@
 # EVALUACIÓN FINAL DE CONSTRUCCIÓN DE SOFTWARE
-------------------------------------------------
+
 ## Equipo de desarrollo
 Integrante | Datos del equipo
 ---|-----------------
@@ -7,7 +7,7 @@ Integrante | Datos del equipo
 **2** |  Ordaya Loo Kin Meng
 **3** |  Rodriguez Mallqui Rolando Maycol
 
-Historia de usaurio detallada
+Historia de usuario detallada
 
 Identificador|HU002
 -------------|-------------
@@ -30,3 +30,5 @@ Criterio | Comentario | Realizado por | Solucionado
 **Comprobable** | Pequeña | CM - OL - RM | Conforme
 
 Wireframe para la historia de usuario: HU002.
+
+![image](https://user-images.githubusercontent.com/91360243/177247775-d3602689-471c-4cd1-b62d-04a38ce11e9e.png)
